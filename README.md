@@ -16,5 +16,4 @@ This project aims to predict Amazon's stock prices using various machine learnin
 - **Evaluation**: Measure model performance with metrics such as MAE, MSE, and RMSE.
 - **Visualization**: Generate plots and charts to visualize data and results.
 
-## 📊 Project Structure
 
